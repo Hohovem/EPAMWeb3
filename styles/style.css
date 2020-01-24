@@ -1,0 +1,19 @@
+.product {
+    border: 3px solid rgb(88, 88, 88);
+    background-color: rgb(233, 227, 227);
+    width: 24.6%;
+    min-height: 150px;
+    float: left;
+}
+
+.newPrice {
+    color: red;
+}
+
+.oldPrice, .price {
+    color: blue;
+}
+
+.oldPrice {
+    text-decoration: line-through;
+}
